@@ -1,0 +1,33 @@
+.school {
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .school:first-child {
+    margin-top: 0;
+  }
+  
+  .school p {
+    margin: 0;
+  }
+  
+  .date {
+    width: 104px;
+  }
+  
+  .dot {
+      flex: 1 0 auto;
+  }
+
+  .dot img {
+    height: 25px;
+    width: 16px;
+  }
+  
+  .school-detail {
+    margin: 0;
+    width: 180px;
+    text-align: left;
+  }
+  
